@@ -1,0 +1,5 @@
+{
+  "python.linting.enabled": true,
+  "cSpell.words": ["penup"],
+  "python.linting.pylintEnabled": true
+}
